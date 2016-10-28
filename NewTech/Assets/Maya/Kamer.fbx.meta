@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 55733d33300f8874c808ddadd847fea9
+timeCreated: 1476866820
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: archiefkast
+    100002: archiefkast 1
+    100004: Archiefkast_001
+    100006: Archiefkast_002
+    100008: back
+    100010: bottom
+    100012: Branches
+    100014: Branches 1
+    100016: Deur
+    100018: Deur_001
+    100020: extras
+    100022: Floor
+    100024: Ground
+    100026: Ground 1
+    100028: Handle
+    100030: Handle 1
+    100032: hendel
+    100034: hendle_001
+    100036: hendle_001 1
+    100038: hendle_002
+    100040: hendle_002 1
+    100042: hendle_003
+    100044: hendle_003 1
+    100046: hendle_004
+    100048: hendle_004 1
+    100050: //RootNode
+    100052: koffiemok_001
+    100054: koffiemok_002
+    100056: lamp_001
+    100058: lamp_002
+    100060: lamp_003
+    100062: lamp_004
+    100064: lamp_005
+    100066: lamp_006
+    100068: lampen
+    100070: Leaf_001
+    100072: Leaf_001 1
+    100074: Leaf_0010
+    100076: Leaf_0010 1
+    100078: Leaf_0011
+    100080: Leaf_0011 1
+    100082: Leaf_0012
+    100084: Leaf_0012 1
+    100086: Leaf_0013
+    100088: Leaf_0013 1
+    100090: Leaf_0014
+    100092: Leaf_0014 1
+    100094: Leaf_0015
+    100096: Leaf_0015 1
+    100098: Leaf_0016
+    100100: Leaf_0016 1
+    100102: Leaf_0018
+    100104: Leaf_0018 1
+    100106: Leaf_0019
+    100108: Leaf_0019 1
+    100110: Leaf_002
+    100112: Leaf_002 1
+    100114: Leaf_0020
+    100116: Leaf_0020 1
+    100118: Leaf_003
+    100120: Leaf_003 1
+    100122: Leaf_004
+    100124: Leaf_004 1
+    100126: Leaf_005
+    100128: Leaf_005 1
+    100130: Leaf_006
+    100132: Leaf_006 1
+    100134: Leaf_007
+    100136: Leaf_007 1
+    100138: Leaf_008
+    100140: Leaf_008 1
+    100142: Leaf_009
+    100144: Leaf_009 1
+    100146: Leaves
+    100148: Leaves 1
+    100150: left
+    100152: lichtbak_001
+    100154: lichtbak_001 1
+    100156: lichtbak_001 2
+    100158: lichtbak_001 3
+    100160: lichtbak_001 4
+    100162: lichtbak_001 5
+    100164: plant
+    100166: Plantenbak
+    100168: Plantenbak 1
+    100170: Plat_001
+    100172: Plat_002
+    100174: powersocket_001
+    100176: powersocket_002
+    100178: pPlane1
+    100180: ronde_tafel_001
+    100182: Roof
+    100184: rugvlak
+    100186: rugvlak 1
+    100188: rugvlak 2
+    100190: schilderij_002
+    100192: schilderij_003
+    100194: schilderij_004
+    100196: Schilderijen_001
+    100198: schruif_001
+    100200: schruif_001 1
+    100202: schruif_001 2
+    100204: schruif_001 3
+    100206: schruif_001 4
+    100208: schruif_001 5
+    100210: schruif_0010
+    100212: schruif_0010 1
+    100214: schruif_0010 2
+    100216: schruif_0010 3
+    100218: schruif_0010 4
+    100220: schruif_0010 5
+    100222: schruif_002
+    100224: schruif_002 1
+    100226: schruif_002 2
+    100228: schruif_002 3
+    100230: schruif_002 4
+    100232: schruif_002 5
+    100234: schruif_003
+    100236: schruif_003 1
+    100238: schruif_003 2
+    100240: schruif_003 3
+    100242: schruif_003 4
+    100244: schruif_003 5
+    100246: schruif_004
+    100248: schruif_004 1
+    100250: schruif_004 2
+    100252: schruif_004 3
+    100254: schruif_004 4
+    100256: schruif_004 5
+    100258: schruif_005
+    100260: schruif_005 1
+    100262: schruif_005 2
+    100264: schruif_005 3
+    100266: schruif_005 4
+    100268: schruif_005 5
+    100270: schruif_006
+    100272: schruif_006 1
+    100274: schruif_006 2
+    100276: schruif_006 3
+    100278: schruif_006 4
+    100280: schruif_006 5
+    100282: schruif_007
+    100284: schruif_007 1
+    100286: schruif_007 2
+    100288: schruif_007 3
+    100290: schruif_007 4
+    100292: schruif_007 5
+    100294: schruif_008
+    100296: schruif_008 1
+    100298: schruif_008 2
+    100300: schruif_008 3
+    100302: schruif_008 4
+    100304: schruif_008 5
+    100306: schruif_009
+    100308: schruif_009 1
+    100310: schruif_009 2
+    100312: schruif_009 3
+    100314: schruif_009 4
+    100316: schruif_009 5
+    100318: schruiven
+    100320: schruiven 1
+    100322: schruiven 2
+    100324: schruiven 3
+    100326: schruiven 4
+    100328: schruiven 5
+    100330: Stoel_001
+    100332: Stoel_002
+    100334: Stoel_003
+    100336: Stronk_001
+    100338: Stronk_001 1
+    100340: Tafel
+    100342: tak_001
+    100344: tak_001 1
+    100346: tak_002
+    100348: tak_002 1
+    100350: wall_001
+    100352: wall_002
+    100354: wall_003
+    100356: wall_004
+    100358: Walls
+    100360: whiteboard
+    100362: zijkanten
+    100364: zijkanten 1
+    100366: zijkanten 2
+    100368: zijknat_001
+    100370: zijknat_001 1
+    100372: zijknat_001 2
+    100374: zijknat_003
+    100376: zijknat_003 1
+    100378: zijknat_003 2
+    100380: zitvlak
+    100382: zitvlak 1
+    100384: zitvlak 2
+    400000: archiefkast
+    400002: archiefkast 1
+    400004: Archiefkast_001
+    400006: Archiefkast_002
+    400008: back
+    400010: bottom
+    400012: Branches
+    400014: Branches 1
+    400016: Deur
+    400018: Deur_001
+    400020: extras
+    400022: Floor
+    400024: Ground
+    400026: Ground 1
+    400028: Handle
+    400030: Handle 1
+    400032: hendel
+    400034: hendle_001
+    400036: hendle_001 1
+    400038: hendle_002
+    400040: hendle_002 1
+    400042: hendle_003
+    400044: hendle_003 1
+    400046: hendle_004
+    400048: hendle_004 1
+    400050: //RootNode
+    400052: koffiemok_001
+    400054: koffiemok_002
+    400056: lamp_001
+    400058: lamp_002
+    400060: lamp_003
+    400062: lamp_004
+    400064: lamp_005
+    400066: lamp_006
+    400068: lampen
+    400070: Leaf_001
+    400072: Leaf_001 1
+    400074: Leaf_0010
+    400076: Leaf_0010 1
+    400078: Leaf_0011
+    400080: Leaf_0011 1
+    400082: Leaf_0012
+    400084: Leaf_0012 1
+    400086: Leaf_0013
+    400088: Leaf_0013 1
+    400090: Leaf_0014
+    400092: Leaf_0014 1
+    400094: Leaf_0015
+    400096: Leaf_0015 1
+    400098: Leaf_0016
+    400100: Leaf_0016 1
+    400102: Leaf_0018
+    400104: Leaf_0018 1
+    400106: Leaf_0019
+    400108: Leaf_0019 1
+    400110: Leaf_002
+    400112: Leaf_002 1
+    400114: Leaf_0020
+    400116: Leaf_0020 1
+    400118: Leaf_003
+    400120: Leaf_003 1
+    400122: Leaf_004
+    400124: Leaf_004 1
+    400126: Leaf_005
+    400128: Leaf_005 1
+    400130: Leaf_006
+    400132: Leaf_006 1
+    400134: Leaf_007
+    400136: Leaf_007 1
+    400138: Leaf_008
+    400140: Leaf_008 1
+    400142: Leaf_009
+    400144: Leaf_009 1
+    400146: Leaves
+    400148: Leaves 1
+    400150: left
+    400152: lichtbak_001
+    400154: lichtbak_001 1
+    400156: lichtbak_001 2
+    400158: lichtbak_001 3
+    400160: lichtbak_001 4
+    400162: lichtbak_001 5
+    400164: plant
+    400166: Plantenbak
+    400168: Plantenbak 1
+    400170: Plat_001
+    400172: Plat_002
+    400174: powersocket_001
+    400176: powersocket_002
+    400178: pPlane1
+    400180: ronde_tafel_001
+    400182: Roof
+    400184: rugvlak
+    400186: rugvlak 1
+    400188: rugvlak 2
+    400190: schilderij_002
+    400192: schilderij_003
+    400194: schilderij_004
+    400196: Schilderijen_001
+    400198: schruif_001
+    400200: schruif_001 1
+    400202: schruif_001 2
+    400204: schruif_001 3
+    400206: schruif_001 4
+    400208: schruif_001 5
+    400210: schruif_0010
+    400212: schruif_0010 1
+    400214: schruif_0010 2
+    400216: schruif_0010 3
+    400218: schruif_0010 4
+    400220: schruif_0010 5
+    400222: schruif_002
+    400224: schruif_002 1
+    400226: schruif_002 2
+    400228: schruif_002 3
+    400230: schruif_002 4
+    400232: schruif_002 5
+    400234: schruif_003
+    400236: schruif_003 1
+    400238: schruif_003 2
+    400240: schruif_003 3
+    400242: schruif_003 4
+    400244: schruif_003 5
+    400246: schruif_004
+    400248: schruif_004 1
+    400250: schruif_004 2
+    400252: schruif_004 3
+    400254: schruif_004 4
+    400256: schruif_004 5
+    400258: schruif_005
+    400260: schruif_005 1
+    400262: schruif_005 2
+    400264: schruif_005 3
+    400266: schruif_005 4
+    400268: schruif_005 5
+    400270: schruif_006
+    400272: schruif_006 1
+    400274: schruif_006 2
+    400276: schruif_006 3
+    400278: schruif_006 4
+    400280: schruif_006 5
+    400282: schruif_007
+    400284: schruif_007 1
+    400286: schruif_007 2
+    400288: schruif_007 3
+    400290: schruif_007 4
+    400292: schruif_007 5
+    400294: schruif_008
+    400296: schruif_008 1
+    400298: schruif_008 2
+    400300: schruif_008 3
+    400302: schruif_008 4
+    400304: schruif_008 5
+    400306: schruif_009
+    400308: schruif_009 1
+    400310: schruif_009 2
+    400312: schruif_009 3
+    400314: schruif_009 4
+    400316: schruif_009 5
+    400318: schruiven
+    400320: schruiven 1
+    400322: schruiven 2
+    400324: schruiven 3
+    400326: schruiven 4
+    400328: schruiven 5
+    400330: Stoel_001
+    400332: Stoel_002
+    400334: Stoel_003
+    400336: Stronk_001
+    400338: Stronk_001 1
+    400340: Tafel
+    400342: tak_001
+    400344: tak_001 1
+    400346: tak_002
+    400348: tak_002 1
+    400350: wall_001
+    400352: wall_002
+    400354: wall_003
+    400356: wall_004
+    400358: Walls
+    400360: whiteboard
+    400362: zijkanten
+    400364: zijkanten 1
+    400366: zijkanten 2
+    400368: zijknat_001
+    400370: zijknat_001 1
+    400372: zijknat_001 2
+    400374: zijknat_003
+    400376: zijknat_003 1
+    400378: zijknat_003 2
+    400380: zitvlak
+    400382: zitvlak 1
+    400384: zitvlak 2
+    2300000: archiefkast
+    2300002: archiefkast 1
+    2300004: Deur
+    2300006: Floor
+    2300008: Ground
+    2300010: Ground 1
+    2300012: hendel
+    2300014: hendle_001
+    2300016: hendle_001 1
+    2300018: hendle_002
+    2300020: hendle_002 1
+    2300022: hendle_003
+    2300024: hendle_003 1
+    2300026: hendle_004
+    2300028: hendle_004 1
+    2300030: koffiemok_001
+    2300032: koffiemok_002
+    2300034: Leaf_001
+    2300036: Leaf_001 1
+    2300038: Leaf_0010
+    2300040: Leaf_0010 1
+    2300042: Leaf_0011
+    2300044: Leaf_0011 1
+    2300046: Leaf_0012
+    2300048: Leaf_0012 1
+    2300050: Leaf_0013
+    2300052: Leaf_0013 1
+    2300054: Leaf_0014
+    2300056: Leaf_0014 1
+    2300058: Leaf_0015
+    2300060: Leaf_0015 1
+    2300062: Leaf_0016
+    2300064: Leaf_0016 1
+    2300066: Leaf_0018
+    2300068: Leaf_0018 1
+    2300070: Leaf_0019
+    2300072: Leaf_0019 1
+    2300074: Leaf_002
+    2300076: Leaf_002 1
+    2300078: Leaf_0020
+    2300080: Leaf_0020 1
+    2300082: Leaf_003
+    2300084: Leaf_003 1
+    2300086: Leaf_004
+    2300088: Leaf_004 1
+    2300090: Leaf_005
+    2300092: Leaf_005 1
+    2300094: Leaf_006
+    2300096: Leaf_006 1
+    2300098: Leaf_007
+    2300100: Leaf_007 1
+    2300102: Leaf_008
+    2300104: Leaf_008 1
+    2300106: Leaf_009
+    2300108: Leaf_009 1
+    2300110: lichtbak_001
+    2300112: lichtbak_001 1
+    2300114: lichtbak_001 2
+    2300116: lichtbak_001 3
+    2300118: lichtbak_001 4
+    2300120: lichtbak_001 5
+    2300122: Plantenbak
+    2300124: Plantenbak 1
+    2300126: powersocket_001
+    2300128: powersocket_002
+    2300130: pPlane1
+    2300132: ronde_tafel_001
+    2300134: Roof
+    2300136: rugvlak
+    2300138: rugvlak 1
+    2300140: rugvlak 2
+    2300142: schilderij_002
+    2300144: schilderij_003
+    2300146: schilderij_004
+    2300148: schruif_001
+    2300150: schruif_001 1
+    2300152: schruif_001 2
+    2300154: schruif_001 3
+    2300156: schruif_001 4
+    2300158: schruif_001 5
+    2300160: schruif_0010
+    2300162: schruif_0010 1
+    2300164: schruif_0010 2
+    2300166: schruif_0010 3
+    2300168: schruif_0010 4
+    2300170: schruif_0010 5
+    2300172: schruif_002
+    2300174: schruif_002 1
+    2300176: schruif_002 2
+    2300178: schruif_002 3
+    2300180: schruif_002 4
+    2300182: schruif_002 5
+    2300184: schruif_003
+    2300186: schruif_003 1
+    2300188: schruif_003 2
+    2300190: schruif_003 3
+    2300192: schruif_003 4
+    2300194: schruif_003 5
+    2300196: schruif_004
+    2300198: schruif_004 1
+    2300200: schruif_004 2
+    2300202: schruif_004 3
+    2300204: schruif_004 4
+    2300206: schruif_004 5
+    2300208: schruif_005
+    2300210: schruif_005 1
+    2300212: schruif_005 2
+    2300214: schruif_005 3
+    2300216: schruif_005 4
+    2300218: schruif_005 5
+    2300220: schruif_006
+    2300222: schruif_006 1
+    2300224: schruif_006 2
+    2300226: schruif_006 3
+    2300228: schruif_006 4
+    2300230: schruif_006 5
+    2300232: schruif_007
+    2300234: schruif_007 1
+    2300236: schruif_007 2
+    2300238: schruif_007 3
+    2300240: schruif_007 4
+    2300242: schruif_007 5
+    2300244: schruif_008
+    2300246: schruif_008 1
+    2300248: schruif_008 2
+    2300250: schruif_008 3
+    2300252: schruif_008 4
+    2300254: schruif_008 5
+    2300256: schruif_009
+    2300258: schruif_009 1
+    2300260: schruif_009 2
+    2300262: schruif_009 3
+    2300264: schruif_009 4
+    2300266: schruif_009 5
+    2300268: Stronk_001
+    2300270: Stronk_001 1
+    2300272: Tafel
+    2300274: tak_001
+    2300276: tak_001 1
+    2300278: tak_002
+    2300280: tak_002 1
+    2300282: wall_001
+    2300284: wall_002
+    2300286: wall_003
+    2300288: wall_004
+    2300290: whiteboard
+    2300292: zijknat_001
+    2300294: zijknat_001 1
+    2300296: zijknat_001 2
+    2300298: zijknat_003
+    2300300: zijknat_003 1
+    2300302: zijknat_003 2
+    2300304: zitvlak
+    2300306: zitvlak 1
+    2300308: zitvlak 2
+    3300000: archiefkast
+    3300002: archiefkast 1
+    3300004: Deur
+    3300006: Floor
+    3300008: Ground
+    3300010: Ground 1
+    3300012: hendel
+    3300014: hendle_001
+    3300016: hendle_001 1
+    3300018: hendle_002
+    3300020: hendle_002 1
+    3300022: hendle_003
+    3300024: hendle_003 1
+    3300026: hendle_004
+    3300028: hendle_004 1
+    3300030: koffiemok_001
+    3300032: koffiemok_002
+    3300034: Leaf_001
+    3300036: Leaf_001 1
+    3300038: Leaf_0010
+    3300040: Leaf_0010 1
+    3300042: Leaf_0011
+    3300044: Leaf_0011 1
+    3300046: Leaf_0012
+    3300048: Leaf_0012 1
+    3300050: Leaf_0013
+    3300052: Leaf_0013 1
+    3300054: Leaf_0014
+    3300056: Leaf_0014 1
+    3300058: Leaf_0015
+    3300060: Leaf_0015 1
+    3300062: Leaf_0016
+    3300064: Leaf_0016 1
+    3300066: Leaf_0018
+    3300068: Leaf_0018 1
+    3300070: Leaf_0019
+    3300072: Leaf_0019 1
+    3300074: Leaf_002
+    3300076: Leaf_002 1
+    3300078: Leaf_0020
+    3300080: Leaf_0020 1
+    3300082: Leaf_003
+    3300084: Leaf_003 1
+    3300086: Leaf_004
+    3300088: Leaf_004 1
+    3300090: Leaf_005
+    3300092: Leaf_005 1
+    3300094: Leaf_006
+    3300096: Leaf_006 1
+    3300098: Leaf_007
+    3300100: Leaf_007 1
+    3300102: Leaf_008
+    3300104: Leaf_008 1
+    3300106: Leaf_009
+    3300108: Leaf_009 1
+    3300110: lichtbak_001
+    3300112: lichtbak_001 1
+    3300114: lichtbak_001 2
+    3300116: lichtbak_001 3
+    3300118: lichtbak_001 4
+    3300120: lichtbak_001 5
+    3300122: Plantenbak
+    3300124: Plantenbak 1
+    3300126: powersocket_001
+    3300128: powersocket_002
+    3300130: pPlane1
+    3300132: ronde_tafel_001
+    3300134: Roof
+    3300136: rugvlak
+    3300138: rugvlak 1
+    3300140: rugvlak 2
+    3300142: schilderij_002
+    3300144: schilderij_003
+    3300146: schilderij_004
+    3300148: schruif_001
+    3300150: schruif_001 1
+    3300152: schruif_001 2
+    3300154: schruif_001 3
+    3300156: schruif_001 4
+    3300158: schruif_001 5
+    3300160: schruif_0010
+    3300162: schruif_0010 1
+    3300164: schruif_0010 2
+    3300166: schruif_0010 3
+    3300168: schruif_0010 4
+    3300170: schruif_0010 5
+    3300172: schruif_002
+    3300174: schruif_002 1
+    3300176: schruif_002 2
+    3300178: schruif_002 3
+    3300180: schruif_002 4
+    3300182: schruif_002 5
+    3300184: schruif_003
+    3300186: schruif_003 1
+    3300188: schruif_003 2
+    3300190: schruif_003 3
+    3300192: schruif_003 4
+    3300194: schruif_003 5
+    3300196: schruif_004
+    3300198: schruif_004 1
+    3300200: schruif_004 2
+    3300202: schruif_004 3
+    3300204: schruif_004 4
+    3300206: schruif_004 5
+    3300208: schruif_005
+    3300210: schruif_005 1
+    3300212: schruif_005 2
+    3300214: schruif_005 3
+    3300216: schruif_005 4
+    3300218: schruif_005 5
+    3300220: schruif_006
+    3300222: schruif_006 1
+    3300224: schruif_006 2
+    3300226: schruif_006 3
+    3300228: schruif_006 4
+    3300230: schruif_006 5
+    3300232: schruif_007
+    3300234: schruif_007 1
+    3300236: schruif_007 2
+    3300238: schruif_007 3
+    3300240: schruif_007 4
+    3300242: schruif_007 5
+    3300244: schruif_008
+    3300246: schruif_008 1
+    3300248: schruif_008 2
+    3300250: schruif_008 3
+    3300252: schruif_008 4
+    3300254: schruif_008 5
+    3300256: schruif_009
+    3300258: schruif_009 1
+    3300260: schruif_009 2
+    3300262: schruif_009 3
+    3300264: schruif_009 4
+    3300266: schruif_009 5
+    3300268: Stronk_001
+    3300270: Stronk_001 1
+    3300272: Tafel
+    3300274: tak_001
+    3300276: tak_001 1
+    3300278: tak_002
+    3300280: tak_002 1
+    3300282: wall_001
+    3300284: wall_002
+    3300286: wall_003
+    3300288: wall_004
+    3300290: whiteboard
+    3300292: zijknat_001
+    3300294: zijknat_001 1
+    3300296: zijknat_001 2
+    3300298: zijknat_003
+    3300300: zijknat_003 1
+    3300302: zijknat_003 2
+    3300304: zitvlak
+    3300306: zitvlak 1
+    3300308: zitvlak 2
+    4300000: Floor
+    4300002: wall_001
+    4300004: wall_002
+    4300006: wall_003
+    4300008: wall_004
+    4300010: powersocket_001
+    4300012: powersocket_002
+    4300014: Tafel
+    4300016: Plantenbak
+    4300018: Ground
+    4300020: Stronk_001
+    4300022: Leaf_001
+    4300024: Leaf_002
+    4300026: Leaf_003
+    4300028: Leaf_004
+    4300030: Leaf_005
+    4300032: Leaf_006
+    4300034: Leaf_007
+    4300036: Leaf_008
+    4300038: Leaf_009
+    4300040: Leaf_0010
+    4300042: Leaf_0011
+    4300044: Leaf_0012
+    4300046: Leaf_0013
+    4300048: Leaf_0014
+    4300050: Leaf_0015
+    4300052: Leaf_0016
+    4300054: Leaf_0018
+    4300056: Leaf_0019
+    4300058: Leaf_0020
+    4300060: tak_001
+    4300062: tak_002
+    4300064: zijknat_001
+    4300066: zijknat_003
+    4300068: rugvlak
+    4300070: zitvlak
+    4300072: Deur
+    4300074: hendel
+    4300076: schilderij_002
+    4300078: schilderij_003
+    4300080: schilderij_004
+    4300082: ronde_tafel_001
+    4300084: hendle_004
+    4300086: hendle_003
+    4300088: hendle_002
+    4300090: hendle_001
+    4300092: archiefkast
+    4300094: whiteboard
+    4300096: zijknat_001
+    4300098: zijknat_003
+    4300100: rugvlak
+    4300102: zitvlak
+    4300104: zijknat_001
+    4300106: zijknat_003
+    4300108: rugvlak
+    4300110: zitvlak
+    4300112: hendle_004
+    4300114: hendle_003
+    4300116: hendle_002
+    4300118: hendle_001
+    4300120: archiefkast
+    4300122: schruif_0010
+    4300124: schruif_009
+    4300126: schruif_008
+    4300128: schruif_007
+    4300130: schruif_006
+    4300132: schruif_005
+    4300134: schruif_004
+    4300136: schruif_003
+    4300138: schruif_002
+    4300140: schruif_001
+    4300142: lichtbak_001
+    4300144: schruif_0010
+    4300146: schruif_009
+    4300148: schruif_008
+    4300150: schruif_007
+    4300152: schruif_006
+    4300154: schruif_005
+    4300156: schruif_004
+    4300158: schruif_003
+    4300160: schruif_002
+    4300162: schruif_001
+    4300164: lichtbak_001
+    4300166: schruif_0010
+    4300168: schruif_009
+    4300170: schruif_008
+    4300172: schruif_007
+    4300174: schruif_006
+    4300176: schruif_005
+    4300178: schruif_004
+    4300180: schruif_003
+    4300182: schruif_002
+    4300184: schruif_001
+    4300186: lichtbak_001
+    4300188: schruif_0010
+    4300190: schruif_009
+    4300192: schruif_008
+    4300194: schruif_007
+    4300196: schruif_006
+    4300198: schruif_005
+    4300200: schruif_004
+    4300202: schruif_003
+    4300204: schruif_002
+    4300206: schruif_001
+    4300208: lichtbak_001
+    4300210: schruif_0010
+    4300212: schruif_009
+    4300214: schruif_008
+    4300216: schruif_007
+    4300218: schruif_006
+    4300220: schruif_005
+    4300222: schruif_004
+    4300224: schruif_003
+    4300226: schruif_002
+    4300228: schruif_001
+    4300230: lichtbak_001
+    4300232: schruif_0010
+    4300234: schruif_009
+    4300236: schruif_008
+    4300238: schruif_007
+    4300240: schruif_006
+    4300242: schruif_005
+    4300244: schruif_004
+    4300246: schruif_003
+    4300248: schruif_002
+    4300250: schruif_001
+    4300252: lichtbak_001
+    4300254: Roof
+    4300256: Plantenbak
+    4300258: Ground
+    4300260: Leaf_001
+    4300262: Leaf_002
+    4300264: Leaf_003
+    4300266: Leaf_004
+    4300268: Leaf_005
+    4300270: Leaf_006
+    4300272: Leaf_007
+    4300274: Leaf_008
+    4300276: Leaf_009
+    4300278: Leaf_0010
+    4300280: Leaf_0011
+    4300282: Leaf_0012
+    4300284: Leaf_0013
+    4300286: Leaf_0014
+    4300288: Leaf_0015
+    4300290: Leaf_0016
+    4300292: Leaf_0018
+    4300294: Leaf_0019
+    4300296: Leaf_0020
+    4300298: tak_001
+    4300300: tak_002
+    4300302: Stronk_001
+    4300304: koffiemok_001
+    4300306: koffiemok_002
+    4300308: pPlane1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
